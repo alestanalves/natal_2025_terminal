@@ -12,6 +12,8 @@
     ▀▀▀████▀▀▀
 ```
 
+Aprenda python de verdade em [ackerdemy.com](ackerdemy.com)
+
 <div align="center">
 
 ### 🎅 Ho Ho Ho! Bem-vindo ao espírito natalino! 🎅
