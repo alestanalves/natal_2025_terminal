@@ -12,7 +12,7 @@
     ▀▀▀████▀▀▀
 ```
 
-Aprenda python de verdade em [ackerdemy.com](ackerdemy.com)
+Aprenda python de verdade em [ackerdemy.com](https://ackerdemy.com)
 
 <div align="center">
 
